@@ -1,4 +1,4 @@
-<img src="http://home.ustc.edu.cn/~zsxqq/CraftingPlusPlus/items/screenshots/banner.png" width="80%">
+<img src="https://zhangshenxing.gitee.io/craftingplusplus/items/screenshots/banner.png" width="80%">
 
 # Crafting++
 This is a pack of datapacks of minecraft.
@@ -16,4 +16,3 @@ It supports English, but there is no wiki in English. You can find the recipes o
 * [Gitee](https://zhangshenxing.gitee.io/CraftingPlusPlus/)
 * [MCBBS](http://www.mcbbs.net/thread-696861-1-1.html)
 * [MCMod wiki](https://www.mcmod.cn/class/1297.html)
-* [Other](http://home.ustc.edu.cn/~zsxqq/CraftingPlusPlus)
